@@ -1,4 +1,4 @@
-# Udacity Data Engineering ND Capstone Project
+# PySpark Data Analysis - Immigration and Temperature Data Project
 
 ## PySpark Jupyter Docker
 It is very convenient to use Jupyter Notebook for an interactive development environment with Spark through PySpark on Jupyter Notebook.
